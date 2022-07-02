@@ -8465,6 +8465,15 @@ h1, h2, h3, h4, h5,
   bottom: 120px;
   z-index: 2; }
 
+@media screen and (max-width:992px) {
+  .mouse {
+    bottom: 50px;
+  }
+  .img-about {
+    height:500px;
+  }
+}
+
 .mouse-icon {
   width: 70px;
   height: 70px;
